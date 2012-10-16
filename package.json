@@ -1,0 +1,10 @@
+{
+  "name"          : "launcher",
+  "description"   : "Launches servers", 
+  "homepage"      : "https://github.com/witoff/launcher",
+  "keywords"      : ["launcher", "launch"],
+  "author"        : "Rob Witoff <rob@pspct.com>",
+  "repository"    : {"type": "git", "url": "git://github.com/witoff/launcher.git"},
+  "main"          : "launcher.js",
+  "version"       : "0.0.1"
+}
